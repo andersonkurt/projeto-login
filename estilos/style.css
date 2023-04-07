@@ -95,7 +95,7 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-13px); /* pra ele mexer pra cima */ /* sempre que tiver uma animação/transformação colocar em último no seletor, pois pode dar problema */
+    transform: translateY(-12px); /* pra ele mexer pra cima */ /* sempre que tiver uma animação/transformação colocar em último no seletor, pois pode dar problema */
 }
 
 div.campo > input:focus-within { /* quando clicar, para ganhar foco */
